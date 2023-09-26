@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Mael0rd
-- 👀 I’m interested in learn Angular and Vue.js
+- 👋 Hi, I’m Lorenzo
 - 🌱 I’m currently learning all the web universe
 - 💞️ I’m looking to collaborate on RPA
 - 📫 How to reach me ...
