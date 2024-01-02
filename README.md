@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lorenzo
+- 👋 I’m Lorenzo
 - 🌱 I’m currently learning all the web universe
-- 💞️ I’m looking to collaborate on RPA
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...
 
 <!---
