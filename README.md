@@ -1,5 +1,5 @@
 - 👋 I’m Lorenzo
-- 🌱 I’m currently learning all the web universe
+- 🌱 I’m currently learning all
 
 
 <!---
